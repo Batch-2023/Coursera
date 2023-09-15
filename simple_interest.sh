@@ -1,6 +1,3 @@
-# Project Code of Conduct
-
-## Introduction
 
 This project is dedicated to fostering an inclusive and welcoming community. We value the contributions of everyone who participates and want to create a positive and respectful environment for all. As such, we have established this code of conduct to outline our expectations for behavior within our project.
 
